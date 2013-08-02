@@ -15,6 +15,7 @@ http://tande.jp/lab/2011/01/638
 Read and Writeの許可が必要です。
 
 大体以下のような流れになります。（メニュー名は英語版）
+
 1. http://dev.twitter.com にアクセス
 2. 右上のアイコンのプルダウンから「My applications」を選択
 3. 「Create a new application」ボタンを押す
