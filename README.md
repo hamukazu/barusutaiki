@@ -16,7 +16,7 @@ Read and Writeの許可が必要です。
 
 大体以下のような流れになります。（メニュー名は英語版）
 
-1. http://dev.twitter.com にアクセス
+1. http://dev.twitter.com にアクセスして、バルス！って言わせたいアカウントでログイン
 2. 右上のアイコンのプルダウンから「My applications」を選択
 3. 「Create a new application」ボタンを押す
 4. Name, Description, Websiteを適当に入れて、キャプチャを入れて、「Create your Twitter applicatioin」ボタンを押す。
